@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! 👋 Sou Gabriel Vasquez!
 
-<!--
-**gvqsilva/gvqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯Apaixonado por tecnologia, inovação e criatividade. Aqui você encontrará projetos desafiadores que refletem minha busca constante por aprendizado e evolução!
+<p>📍 São Paulo | 🎓 Engenharia de Software</p>
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+<p>🎓 Atualmente estou no 3º semestre do curso de Engenharia de Software.</p> 
+<p>📊 Explorando o mundo de **Pandas** e **Java**</p>
+<p>🎯 Desejo de aprender mais sobre <strong>Cybersecurity, Java e IoT</strong>.</p>
+<p>🔍 Em busca do primeiro estagio.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" />
+
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" />
+
+## 🌍 Onde me achar
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## ⚡ Curiosidades
+- Sou apaixonado por esporte e atividades físicas, usando os treinos para manter a energia lá em cima.
+- No meu tempo livre, você pode me encontrar jogando videogame, relaxando a mente.
+- Apaixonado por automobilismo
+
+---
+
+Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios ou simplesmente trocar uma ideia! 🚀
