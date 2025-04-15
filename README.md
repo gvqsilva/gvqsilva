@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre Mim
 <p>🎓 Atualmente estou no 3º semestre do curso de Engenharia de Software.</p> 
-<p>📊 Explorando o mundo de **Pandas** e **Java**</p>
+<p>📊 Explorando o mundo de <strong>Pandas e Java</strong></p>
 <p>🎯 Desejo de aprender mais sobre <strong>Cybersecurity, Java e IoT</strong>.</p>
 <p>🔍 Em busca do primeiro estagio.</p>
 
