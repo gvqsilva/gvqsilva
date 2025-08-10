@@ -17,7 +17,8 @@
 
 
 ## 🌍 Onde me achar
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-vasquez-queiroz-da-silva-634b47277/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> |
+<a href="https://gabrielvasquez.vercel.app/" target="_blank"><img loading="lazy"> Portfólio</a>
 
 ## ⚡ Curiosidades
 - Sou apaixonado por esporte e atividades físicas, usando os treinos para manter a energia lá em cima.
